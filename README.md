@@ -21,7 +21,7 @@ Welcome to the **Restaurant Frontend Website**! This project is designed to show
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/restaurant-frontend.git
+    git clone [https://github.com/your-username/restaurant-frontend](https://github.com/Leela5678/Frontend-Restaurant-App).git
     ```
 
 2. Navigate to the project directory:
